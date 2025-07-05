@@ -66,6 +66,13 @@
 - **Firebase Realtime Database** - Database real-time untuk sinkronisasi data
 - **Firebase Auth** - Sistem autentikasi (siap untuk implementasi)
 
+### 🔧 **Hardware & IoT**
+- **ESP32 Microcontroller** - Pengendali utama sistem IoT
+- **Sensor Kelembapan Tanah** - Monitoring kondisi tanah
+- **Relay Module** - Kontrol pompa air
+- **Pompa Air** - Sistem irigasi otomatis
+- **Kode ESP32**: [Smart Irrigation ESP32 Repository](https://github.com/neurrochmat/Smart_Irigation)
+
 ### 🎨 **UI/UX**
 - **Material Design 3** - Design system modern dan konsisten
 - **Custom Animations** - Animasi yang halus dan responsif
@@ -108,12 +115,13 @@ graph LR
 - Android Studio / VS Code
 - Firebase Project (dengan Realtime Database)
 - ESP32 dengan sensor kelembapan tanah
+- Kode ESP32: [Smart Irrigation ESP32 Repository](https://github.com/neurrochmat/Smart_Irigation)
 
 ### 🚀 **Langkah Instalasi**
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/username/irrigation_system.git
+   git clone https://github.com/neurrochmat/smart_irrigation_app.git
    cd irrigation_system
    ```
 
@@ -132,6 +140,7 @@ graph LR
    ```
 
 4. **Setup ESP32**
+   - Download kode ESP32 dari: [Smart Irrigation ESP32 Code](https://github.com/neurrochmat/Smart_Irigation)
    - Upload kode ESP32 dengan konfigurasi Firebase
    - Pastikan sensor kelembapan terhubung dengan benar
 
@@ -260,9 +269,9 @@ Proyek ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk 
 
 ## 📞 Kontak & Support
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Issues**: [GitHub Issues](https://github.com/username/irrigation_system/issues)
+- **Email**: [neurrochmat6@gmail.com](mailto:neurrochmat6@gmail.com)
+- **GitHub**: [@yourusername](https://github.com/neurrochmat)
+- **Issues**: [GitHub Issues](https://github.com/neurrochmat/smart_irrigation_app/issues)
 
 ---
 
